@@ -3,18 +3,18 @@
 AirDraw is a hand gesture controlled drawing application built using Python, OpenCV, and MediaPipe.
 
 1)Features:-
-     Draw using index finger
-     Change colors using peace-sign gesture
-     Erase drawings using fist gesture
-     Live hand landmark tracking
-     Full-screen canvas
-     Multiple brush colors
+     i)Draw using index finger
+     ii)Change colors using peace-sign gesture
+     iii)Erase drawings using fist gesture
+     iv)Live hand landmark tracking
+     v)Full-screen canvas
+     vi)Multiple brush colors
      
 2)Technologies Used:-
-     Python
-     OpenCV
-     MediaPipe
-     NumPy
+     i)Python
+     ii)OpenCV
+     iii)MediaPipe
+     iv)NumPy
 
 3)Installation:-
      pip install -r requirements.txt
@@ -23,7 +23,7 @@ AirDraw is a hand gesture controlled drawing application built using Python, Ope
      python hand_tracking.py
 
 5)Future Improvements:-
-     Virtual cursor control
-     Shape drawing tools
-     Brush size control
-     Gesture-based menu
+     i)Virtual cursor control
+     ii)Shape drawing tools
+     iii)Brush size control
+     iv)Gesture-based menu
